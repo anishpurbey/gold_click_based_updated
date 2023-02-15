@@ -1,5 +1,3 @@
-# gold_click_based_updated
-
 
 --Goodrx email Segment
 DROP TABLE IF EXISTS goodrx_email_send_staging;
